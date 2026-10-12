@@ -17,6 +17,32 @@
       "lastSolved": "2026-10-12",
       "path": "Problems/Medium/squares-in-reactangle3340",
       "link": "https://www.geeksforgeeks.org/problems/squares-in-reactangle3340/1"
+    },
+    "practice/bubble-sort": {
+      "slug": "bubble-sort",
+      "title": "Bubble Sort",
+      "difficulty": "Easy",
+      "contest": null,
+      "tags": [
+        "Microsoft",
+        "Wipro",
+        "SAP Labs",
+        "Cisco",
+        "Nagarro",
+        "redBus",
+        "Accenture",
+        "Huawei",
+        "Sorting",
+        "Bubble Sort Algorithm",
+        "C Bubble Sort"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-12",
+      "lastSolved": "2026-10-12",
+      "path": "Problems/Easy/bubble-sort",
+      "link": "https://www.geeksforgeeks.org/problems/bubble-sort/1"
     }
   },
   "dates": [
