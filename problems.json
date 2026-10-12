@@ -80,6 +80,24 @@
       "lastSolved": "2026-10-13",
       "path": "Problems/Easy/adding-ones3628",
       "link": "https://www.geeksforgeeks.org/problems/adding-ones3628/1"
+    },
+    "practice/perfect-numbers3207": {
+      "slug": "perfect-numbers3207",
+      "title": "Perfect Numbers",
+      "difficulty": "Easy",
+      "contest": null,
+      "tags": [
+        "Wipro",
+        "Mathematics",
+        "Perfect Number"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-13",
+      "lastSolved": "2026-10-13",
+      "path": "Problems/Easy/perfect-numbers3207",
+      "link": "https://www.geeksforgeeks.org/problems/perfect-numbers3207/1"
     }
   },
   "dates": [
