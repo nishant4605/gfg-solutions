@@ -2,16 +2,15 @@
   "problems": {
     "practice/squares-in-reactangle3340": {
       "slug": "squares-in-reactangle3340",
-      "title": "Minimum Squares with Full CutsSolved",
+      "title": "Minimum Squares with Full Cuts",
       "difficulty": "Medium",
       "contest": null,
       "tags": [
         "Amazon",
-        "Mathematics",
-        "Minimum Squares With Full Cuts"
+        "Mathematics"
       ],
       "languages": [
-        "C++ (17)"
+        "C++"
       ],
       "firstSolved": "2026-10-12",
       "lastSolved": "2026-10-12",
