@@ -1,4 +1,4 @@
-# Minimum Squares with Full Cuts
+# Minimum Squares with Full CutsSolved
 
 | | |
 |---|---|
