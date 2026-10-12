@@ -64,10 +64,27 @@
       "lastSolved": "2026-10-12",
       "path": "Problems/Basic/factorial5739",
       "link": "https://www.geeksforgeeks.org/problems/factorial5739/1"
+    },
+    "practice/adding-ones3628": {
+      "slug": "adding-ones3628",
+      "title": "Adding Ones",
+      "difficulty": "Easy",
+      "contest": null,
+      "tags": [
+        "Arrays"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-13",
+      "lastSolved": "2026-10-13",
+      "path": "Problems/Easy/adding-ones3628",
+      "link": "https://www.geeksforgeeks.org/problems/adding-ones3628/1"
     }
   },
   "dates": [
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "stats": {
     "solved": 84,
