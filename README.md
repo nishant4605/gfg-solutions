@@ -1,18 +1,18 @@
 # GeeksforGeeks Solutions
 
-![Solved](https://img.shields.io/badge/Solved-4-brightgreen) ![Streak](https://img.shields.io/badge/Streak-2%20days-orange) ![Rank](https://img.shields.io/badge/Rank-801-blue) ![Score](https://img.shields.io/badge/Score-264-purple)
+![Solved](https://img.shields.io/badge/Solved-4-brightgreen) ![Streak](https://img.shields.io/badge/Streak-2%20days-orange) ![Rank](https://img.shields.io/badge/Rank-800-blue) ![Score](https://img.shields.io/badge/Score-266-purple)
 
 ## Stats
 
 | Metric | Value |
 |---|---|
 | Problems tracked here | 4 |
-| Problems solved on GFG | 84 |
-| Coding score | 264 |
-| Monthly score | 27 |
-| Institute rank | 801 |
-| GFG POTD streak | 6 days |
-| GFG POTD longest streak | 6 days |
+| Problems solved on GFG | 85 |
+| Coding score | 266 |
+| Monthly score | 29 |
+| Institute rank | 800 |
+| GFG POTD streak | 7 days |
+| GFG POTD longest streak | 7 days |
 | Current streak | 2 days |
 | Longest streak | 2 days |
 
