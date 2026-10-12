@@ -22,5 +22,10 @@
   "dates": [
     "2026-10-12"
   ],
-  "stats": null
+  "stats": {
+    "solved": null,
+    "score": null,
+    "rank": null,
+    "fetchedAt": "2026-10-12T07:16:14.352Z"
+  }
 }
