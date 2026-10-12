@@ -48,9 +48,12 @@
     "2026-10-12"
   ],
   "stats": {
-    "solved": null,
-    "score": null,
-    "rank": null,
-    "fetchedAt": "2026-10-12T07:37:54.370Z"
+    "solved": 83,
+    "score": 263,
+    "monthlyScore": 26,
+    "rank": 803,
+    "potdStreak": 6,
+    "potdLongest": 6,
+    "fetchedAt": "2026-10-12T17:49:00.547Z"
   }
 }
