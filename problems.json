@@ -42,6 +42,28 @@
       "lastSolved": "2026-10-12",
       "path": "Problems/Easy/bubble-sort",
       "link": "https://www.geeksforgeeks.org/problems/bubble-sort/1"
+    },
+    "practice/factorial5739": {
+      "slug": "factorial5739",
+      "title": "Factorial",
+      "difficulty": "Basic",
+      "contest": null,
+      "tags": [
+        "Morgan Stanley",
+        "Samsung",
+        "FactSet",
+        "MAQ Software",
+        "Wipro",
+        "Mathematics",
+        "Program For Factorial Of A Number"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-12",
+      "lastSolved": "2026-10-12",
+      "path": "Problems/Basic/factorial5739",
+      "link": "https://www.geeksforgeeks.org/problems/factorial5739/1"
     }
   },
   "dates": [
