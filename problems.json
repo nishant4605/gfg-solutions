@@ -98,11 +98,31 @@
       "lastSolved": "2026-10-13",
       "path": "Problems/Easy/perfect-numbers3207",
       "link": "https://www.geeksforgeeks.org/problems/perfect-numbers3207/1"
+    },
+    "practice/roll-the-characters-of-a-string2127": {
+      "slug": "roll-the-characters-of-a-string2127",
+      "title": "Roll Characters of String",
+      "difficulty": "Medium",
+      "contest": null,
+      "tags": [
+        "Airtel",
+        "Arrays",
+        "Strings",
+        "Find The Final String By Incrementing Prefixes Of Given Length"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-14",
+      "lastSolved": "2026-10-14",
+      "path": "Problems/Medium/roll-the-characters-of-a-string2127",
+      "link": "https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1"
     }
   },
   "dates": [
     "2026-10-12",
-    "2026-10-13"
+    "2026-10-13",
+    "2026-10-14"
   ],
   "stats": {
     "solved": 86,
