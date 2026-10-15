@@ -117,12 +117,30 @@
       "lastSolved": "2026-10-14",
       "path": "Problems/Medium/roll-the-characters-of-a-string2127",
       "link": "https://www.geeksforgeeks.org/problems/roll-the-characters-of-a-string2127/1"
+    },
+    "practice/geek-hates-too-many-1s-170647": {
+      "slug": "geek-hates-too-many-1s-170647",
+      "title": "Maximum Without 3 Consecutive Set Bits",
+      "difficulty": "Medium",
+      "contest": null,
+      "tags": [
+        "Bit Magic",
+        "Maximizing Unset Bits In Integer With Constraints"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-15",
+      "lastSolved": "2026-10-15",
+      "path": "Problems/Medium/geek-hates-too-many-1s-170647",
+      "link": "https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1"
     }
   },
   "dates": [
     "2026-10-12",
     "2026-10-13",
-    "2026-10-14"
+    "2026-10-14",
+    "2026-10-15"
   ],
   "stats": {
     "solved": 86,
