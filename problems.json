@@ -134,13 +134,32 @@
       "lastSolved": "2026-10-15",
       "path": "Problems/Medium/geek-hates-too-many-1s-170647",
       "link": "https://www.geeksforgeeks.org/problems/geek-hates-too-many-1s--170647/1"
+    },
+    "practice/count-always-found": {
+      "slug": "count-always-found",
+      "title": "Successful Binary Searches Irrespective of Pivot",
+      "difficulty": "Medium",
+      "contest": null,
+      "tags": [
+        "constructive algo",
+        "Arrays",
+        "New Binary Search"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-16",
+      "lastSolved": "2026-10-16",
+      "path": "Problems/Medium/count-always-found",
+      "link": "https://www.geeksforgeeks.org/problems/count-always-found/1"
     }
   },
   "dates": [
     "2026-10-12",
     "2026-10-13",
     "2026-10-14",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-16"
   ],
   "stats": {
     "solved": 86,
