@@ -152,6 +152,26 @@
       "lastSolved": "2026-10-16",
       "path": "Problems/Medium/count-always-found",
       "link": "https://www.geeksforgeeks.org/problems/count-always-found/1"
+    },
+    "practice/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116": {
+      "slug": "check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116",
+      "title": "Convert One String to Another with Constraints",
+      "difficulty": "Easy",
+      "contest": null,
+      "tags": [
+        "Strings",
+        "constructive algo",
+        "Greedy",
+        "two-pointer-algorithm",
+        "Check If It Is Possible To Convert One String Into Another"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-17",
+      "lastSolved": "2026-10-17",
+      "path": "Problems/Easy/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116",
+      "link": "https://www.geeksforgeeks.org/problems/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/1"
     }
   },
   "dates": [
@@ -159,7 +179,8 @@
     "2026-10-13",
     "2026-10-14",
     "2026-10-15",
-    "2026-10-16"
+    "2026-10-16",
+    "2026-10-17"
   ],
   "stats": {
     "solved": 86,
