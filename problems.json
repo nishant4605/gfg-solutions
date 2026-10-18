@@ -172,6 +172,29 @@
       "lastSolved": "2026-10-17",
       "path": "Problems/Easy/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116",
       "link": "https://www.geeksforgeeks.org/problems/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints4116/1"
+    },
+    "practice/shortest-path-from-1-to-n0156": {
+      "slug": "shortest-path-from-1-to-n0156",
+      "title": "Shortest Path From 1 To n",
+      "difficulty": "Easy",
+      "contest": null,
+      "tags": [
+        "Morgan Stanley",
+        "Accolite",
+        "Samsung",
+        "Synopsys",
+        "Cisco",
+        "Mathematics",
+        "Graph",
+        "Shortest Path"
+      ],
+      "languages": [
+        "C++"
+      ],
+      "firstSolved": "2026-10-18",
+      "lastSolved": "2026-10-18",
+      "path": "Problems/Easy/shortest-path-from-1-to-n0156",
+      "link": "https://www.geeksforgeeks.org/problems/shortest-path-from-1-to-n0156/1"
     }
   },
   "dates": [
@@ -180,7 +203,8 @@
     "2026-10-14",
     "2026-10-15",
     "2026-10-16",
-    "2026-10-17"
+    "2026-10-17",
+    "2026-10-18"
   ],
   "stats": {
     "solved": 86,
